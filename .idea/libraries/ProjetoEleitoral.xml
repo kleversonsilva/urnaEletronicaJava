@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProjetoEleitoral">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProjetoEleitoral/dist/ProjetoEleitoral.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

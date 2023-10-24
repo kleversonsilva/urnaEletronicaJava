@@ -1,0 +1,9 @@
+222111333-00;RICARDO EVANGELISTA DE SOUZA                           ;22288;999;909;888;Nao;Nao;
+555444333-11;FRANCISCO CARLOS                                       ;99988;7656;111;222;Nao;Nao;
+333422555-99;GLEDSON ELIAS PRAXEDES                                 ;23421;12321;111;222;Nao;Nao;
+888777666-00;CLAUDIOMAR PEREIRA                                     ;2345;1234;111;222;Nao;Nao;
+333444115-99;ARNOLD SCHWARZENEGGER                                  ;23421;12321;111;222;Nao;Nao;
+889077666-00;SILVIO SANTOS                                          ;2345;1234;111;222;Nao;Nao;
+222111333-0;SYLVESTER STALLONE                                      ;22288;999;909;888;Nao;Nao;
+555441533-11;MICHAEL BIEHN                                          ;99988;7656;111;222;Nao;Sim;
+999999999-99;Lis Bruna Teles                                        ;999999;888888;111;222;Nao;Nao;
